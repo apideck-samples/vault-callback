@@ -1,12 +1,12 @@
 # Vault OAuth on a custom domain
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fapideck-samples%2Fvault-callback)
-
 > Host the Vault OAuth redirect URI on a custom domain
 
 ## Usage
 
 To deploy this sample, click the **Deploy** button, and [configure your domain in Vercel](https://vercel.com/docs/concepts/projects/custom-domains).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fapideck-samples%2Fvault-callback)
 
 ## Description
 
