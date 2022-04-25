@@ -4,12 +4,14 @@
 
 > Host the Vault OAuth redirect URI on a custom domain
 
+## Usage
 
+To deploy this sample, click the **Deploy** button, and [configure your domain in Vercel](https://vercel.com/docs/concepts/projects/custom-domains).
 
-When setting up the OAuth connectors for use with Apideck, you have to configure the Apideck Vault redirect URI (https://unify.apideck.com/vault/callback)
+## Description
 
-Sometimes OAuth connectors require your OAuth redirect URI to be hosted on a domain you own.
+When you set up OAuth connectors for use with Apideck, you have to configure the Apideck Vault redirect URI (https://unify.apideck.com/vault/callback).
 
-This sample project helps you deploy a redirect to https://unify.apideck.com/vault/callback on a custom domain. The redirect will be available as https://mycustom.domain/api/callback.
+Some OAuth connectors, such as Google Drive, require that the OAuth redirect URI is hosted on a domain that you own.
 
-To deploy this sample, click the **Deploy** button, and configure your domain in Vercel.
+This sample project helps you deploy a redirect to https://unify.apideck.com/vault/callback on your custom domain. The redirect will be available as https://mycustom.domain/api/callback.
