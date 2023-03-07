@@ -7,7 +7,7 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fapideck-samples%2Fvault-callback)
 
 1. Click the **Deploy** button, and [link your custom domain in Vercel](https://vercel.com/docs/concepts/projects/custom-domains)
-2. Set `https://mycustom.domain/api/callback` as the redirect URI in the connector's OAuth settings
+2. Set `https://mycustom.domain/vault/callback` as the redirect URI in the connector's OAuth settings
 3. Contact Apideck support to enable this redirect URI on your account
 
 ## Why
